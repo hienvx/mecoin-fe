@@ -25,3 +25,9 @@ npm start
 ```
 
 Chương trình chạy ở Port 4200: [http://localhost:4200](http://localhost:4200)
+
+## Nguồn tham khảo
+[SavjeeCoin](https://github.com/Savjee/SavjeeCoin.git)
+[Savjee Youtube channel](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4)
+[Blockchain java](https://www.youtube.com/watch?v=Pasim9tawVU)
+Và một số trang web/blog khác.
